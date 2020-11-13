@@ -1,0 +1,2 @@
+module Exerc_2 {
+}
